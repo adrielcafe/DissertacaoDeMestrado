@@ -1,4 +1,6 @@
-[![Cover](https://github.com/adrielcafe/DissertacaoDeMestrado-LaTeX/raw/master/cover.png)](https://github.com/adrielcafe/DissertacaoDeMestrado-LaTeX/raw/master/DissertaçãoMestradoAdrielCafé.pdf)
+<p align="center">
+  <img src="https://github.com/adrielcafe/DissertacaoDeMestrado-LaTeX/raw/master/cover.png">
+</p>
 
 ## Resumo
 > Integração da informação é uma área de pesquisa ativa onde tenta-se criar mecanismos para extrair ou mesclar fontes de dados. Integração semântica é uma subárea, nela são utilizadas tecnologias da Web Semântica para tornar o processo de integração o mais inteligente e automático possível. 

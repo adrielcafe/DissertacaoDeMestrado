@@ -24,6 +24,9 @@ O Gryphon é o resultado deste projeto. Ele é um framework open source que poss
 
 [Repositório do Gryphon Framework](https://github.com/adrielcafe/GryphonFramework)
 
+
 * * *
 [![CIn-UFPE](https://github.com/adrielcafe/GryphonFramework/raw/master/images/cin.png)](http://www2.cin.ufpe.br)
 [![UFPE](https://github.com/adrielcafe/GryphonFramework/raw/master/images/ufpe.png)](http://www.ufpe.br)
+
+*Esta dissertação utilizou o [RiSEThesis](https://github.com/yguarata/risethesis) (template para LaTeX)*

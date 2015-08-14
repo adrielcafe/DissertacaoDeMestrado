@@ -1,4 +1,4 @@
-![](https://github.com/adrielcafe/DissertacaoDeMestrado-LaTeX/raw/master/cover.png)
+<div style="text-align:center"><img src="https://github.com/adrielcafe/DissertacaoDeMestrado-LaTeX/raw/master/cover.png" /></div>
 
 ## Versão Completa em PDF
 [Visualizar](https://github.com/adrielcafe/DissertacaoDeMestrado-LaTeX/raw/master/DissertaçãoMestradoAdrielCafé.pdf)

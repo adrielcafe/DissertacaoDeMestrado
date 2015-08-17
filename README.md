@@ -13,7 +13,7 @@
 
 > Como prova de conceito foi desenvolvido o Gryphon, um framework Java de código aberto, sob a licença MIT, que implementa a arquitetura proposta. O Gryphon Framework (semi) automatiza as principais atividades relacionadas a integração semântica: alinhamento de ontologias, mapeamento de banco de dados e reescrita de consultas. 
 
-> Para demonstrar a capacidade e a praticidade de realizar integração semântica com a arquitetura proposta e o Gryphon Framework, foram criadas consultas por especialista do domínio biológico para ontologias formais ricamente axiomatizadas do domínio biológico (Gene Ontology, Protein Ontology, Chemical Entities of Biological Interest e BioTopLite2) e bancos de dados provenientes do UniProt/SwissProt e Ensembl.
+> Para demonstrar a capacidade e a praticidade de realizar integração semântica com a arquitetura proposta e o Gryphon Framework, foram criadas consultas por especialista do domínio biológico para ontologias formais ricamente axiomatizadas do domínio biológico (Gene Ontology, Protein Ontology, Chemical Entities of Biological Interest e BioTopLite2). Essas ontologias foram utilizadas para integrar e consultar o banco de dados UniProt/SwissProt.
 
 > PALAVRAS-CHAVE: Integração Semântica, Integração de Dados, Alinhamento de Ontologias, Mapeamento de Banco de Dados, Reescrita de Consultas
 
@@ -26,7 +26,7 @@
 
 > As proof of concept, the Gryphon was developed. It is an open source Java framework under the MIT license, which implements the proposed architecture. The Gryphon Framework (semi) automates key activities related to semantic integration:  alignment of ontologies, database mapping and query rewrite.
 
-> To demonstrate the ability and practicality of performing semantic integration with the proposed architecture under Gryphon, queries were created by an expert in the biological domain to retrieve data integrated with the support of formal and richly axiomatized ontologies (Gene Ontology, Protein Ontology, Chemical Entities of Biological Interest and BioTopLite2). These ontologies were used to integrate and query database from the UniProt/SwissProt.
+> To demonstrate the ability and practicality of performing semantic integration with the proposed architecture under Gryphon, queries were created by an expert in the biological domain to retrieve data integrated with the support of formal and richly axiomatized ontologies (Gene Ontology, Protein Ontology, Chemical Entities of Biological Interest and BioTopLite2). These ontologies were used to integrate and query the UniProt/SwissProt database.
 
 > KEYWORDS: Semantic Integration, Data Integration, Ontology Alignment, Database Mapping, Query Rewriting
 

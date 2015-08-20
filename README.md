@@ -4,6 +4,8 @@
   </a>
 </p>
 
+*Clique na imagem para abrir o PDF*
+
 ## Resumo
 > Integração da informação é uma área de pesquisa ativa a qual tenta-se criar mecanismos para extrair ou mesclar fontes de dados. Integração semântica é uma subárea, nela são utilizadas tecnologias da Web Semântica para tornar o processo de integração o mais inteligente e automático possível. 
 

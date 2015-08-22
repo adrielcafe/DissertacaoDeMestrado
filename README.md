@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/adrielcafe/DissertacaoDeMestrado-LaTeX/raw/master/DissertaçãoMestradoAdrielCafé.pdf">
+  <a href="https://github.com/adrielcafe/DissertacaoDeMestrado/blob/master/Disserta%C3%A7%C3%A3oMestradoAdrielCaf%C3%A9.pdf">
     <img src="https://github.com/adrielcafe/DissertacaoDeMestrado-LaTeX/raw/master/cover.png">
   </a>
 </p>
